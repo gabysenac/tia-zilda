@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(205, 228, 235);
+}
+table, th, td{
+    border: 1px solid rgb(28, 28, 233);
+margin:auto;
+    padding: 3px;
+
+}
+img {
+    width: 400px;
+}
+
+img {
+    width: 10;
+}
